@@ -13,10 +13,10 @@ P{{成績評価}}
 S-.->a-.->T-.->d-.->P
 S-.->b-.->T-.->e-.->P
 S-.->c-.->T-.->f-.->P
-subgraph 採点
-d
-e
-f
+subgraph 学期中
+a
+b
+c
 
 end
 ```
