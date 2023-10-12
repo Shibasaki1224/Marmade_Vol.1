@@ -18,11 +18,10 @@ subgraph 学期中
 a
 b
 c
-
+end
 subgraph 期末
 d
 e
 f
-
 end
 ```
